@@ -1,0 +1,31 @@
+div#hollandex_tabs input[type='text'],div#hollandex_tabs select, #txthollandex_footer_text,#txthollandex_contact_address
+{
+	width: 300px;
+	position: relative;
+}
+
+#txthollandex_custom_css,#txthollandex_analytics_code
+{
+	width: 450px;
+	height: 350px;
+}
+
+.form-table th
+{
+	width: 400px;
+}
+
+
+.ui-widget-header {
+border: 1px solid #ccc;
+background-color: #FFFFFF;
+color: #ffffff;
+font-weight: bold;
+}
+
+
+.ui-state-active a, .ui-state-active a:link, .ui-state-active a:visited {
+color: #1c94c4;
+text-decoration: none;
+}
+

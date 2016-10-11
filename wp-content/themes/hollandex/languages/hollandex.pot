@@ -1,0 +1,358 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: hollandex\n"
+"POT-Creation-Date: 2015-01-30 12:48+0200\n"
+"PO-Revision-Date: 2015-01-30 12:49+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: C:\\xampp\\htdocs\\hollandex\\wp-content\\themes"
+"\\hollandex\n"
+
+#: C:\xampp\htdocs\hollandex\wp-content\themes\hollandex/404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: C:\xampp\htdocs\hollandex\wp-content\themes\hollandex/404.php:19
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: C:\xampp\htdocs\hollandex\wp-content\themes\hollandex/archive.php:30
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+#: C:\xampp\htdocs\hollandex\wp-content\themes\hollandex/archive.php:33
+#, php-format
+msgid "Day: %s"
+msgstr ""
+
+#: C:\xampp\htdocs\hollandex\wp-content\themes\hollandex/archive.php:36
+#, php-format
+msgid "Month: %s"
+msgstr ""
+
+#: C:\xampp\htdocs\hollandex\wp-content\themes\hollandex/archive.php:39
+#, php-format
+msgid "Year: %s"
+msgstr ""
+
+#: C:\xampp\htdocs\hollandex\wp-content\themes\hollandex/archive.php:42
+msgid "Asides"
+msgstr ""
+
+#: C:\xampp\htdocs\hollandex\wp-content\themes\hollandex/archive.php:45
+msgid "Galleries"
+msgstr ""
+
+#: C:\xampp\htdocs\hollandex\wp-content\themes\hollandex/archive.php:48
+msgid "Images"
+msgstr ""
+
+#: C:\xampp\htdocs\hollandex\wp-content\themes\hollandex/archive.php:51
+msgid "Videos"
+msgstr ""
+
+#: C:\xampp\htdocs\hollandex\wp-content\themes\hollandex/archive.php:54
+msgid "Quotes"
+msgstr ""
+
+#: C:\xampp\htdocs\hollandex\wp-content\themes\hollandex/archive.php:57
+msgid "Links"
+msgstr ""
+
+#: C:\xampp\htdocs\hollandex\wp-content\themes\hollandex/archive.php:60
+msgid "Statuses"
+msgstr ""
+
+#: C:\xampp\htdocs\hollandex\wp-content\themes\hollandex/archive.php:63
+msgid "Audios"
+msgstr ""
+
+#: C:\xampp\htdocs\hollandex\wp-content\themes\hollandex/archive.php:66
+msgid "Chats"
+msgstr ""
+
+#: C:\xampp\htdocs\hollandex\wp-content\themes\hollandex/archive.php:69
+msgid "Archives"
+msgstr ""
+
+#: C:\xampp\htdocs\hollandex\wp-content\themes\hollandex/comments.php:35
+#: C:\xampp\htdocs\hollandex\wp-content\themes\hollandex/comments.php:52
+msgid "Comment navigation"
+msgstr ""
+
+#: C:\xampp\htdocs\hollandex\wp-content\themes\hollandex/comments.php:36
+#: C:\xampp\htdocs\hollandex\wp-content\themes\hollandex/comments.php:53
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: C:\xampp\htdocs\hollandex\wp-content\themes\hollandex/comments.php:37
+#: C:\xampp\htdocs\hollandex\wp-content\themes\hollandex/comments.php:54
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: C:\xampp\htdocs\hollandex\wp-content\themes\hollandex/comments.php:64
+msgid "Comments are closed."
+msgstr ""
+
+#: C:\xampp\htdocs\hollandex\wp-content\themes\hollandex/content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: C:\xampp\htdocs\hollandex\wp-content\themes\hollandex/content-none.php:19
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: C:\xampp\htdocs\hollandex\wp-content\themes\hollandex/content-none.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: C:\xampp\htdocs\hollandex\wp-content\themes\hollandex/content-none.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: C:\xampp\htdocs\hollandex\wp-content\themes\hollandex/content-page.php:18
+#: C:\xampp\htdocs\hollandex\wp-content\themes\hollandex/content-single.php:24
+#: C:\xampp\htdocs\hollandex\wp-content\themes\hollandex/content.php:43
+msgid "Pages:"
+msgstr ""
+
+#: C:\xampp\htdocs\hollandex\wp-content\themes\hollandex/content-page.php:24
+#: C:\xampp\htdocs\hollandex\wp-content\themes\hollandex/content-single.php:64
+msgid "Edit"
+msgstr ""
+
+#: C:\xampp\htdocs\hollandex\wp-content\themes\hollandex/content-single.php:33
+#: C:\xampp\htdocs\hollandex\wp-content\themes\hollandex/content-single.php:36
+msgid " "
+msgstr ""
+
+#: C:\xampp\htdocs\hollandex\wp-content\themes\hollandex/content-single.php:41
+#, php-format
+msgid "<div class=\"row tag-list\"><h5>Tags</h5><div> %2$s </div></div>"
+msgstr ""
+
+#: C:\xampp\htdocs\hollandex\wp-content\themes\hollandex/content-single.php:49
+#, php-format
+msgid ""
+"<div class=\"row tag-list\"><h5>Categories</h5><div> %1$s </div></div>  <div "
+"class=\"row tag-list\"><h5>Tags</h5><div> %2$s </div></div>"
+msgstr ""
+
+#: C:\xampp\htdocs\hollandex\wp-content\themes\hollandex/content-single.php:51
+#, php-format
+msgid "<div class=\"row tag-list\"><h5>Categories</h5><div> %1$s </div></div>"
+msgstr ""
+
+#: C:\xampp\htdocs\hollandex\wp-content\themes\hollandex/content.php:55
+msgid ", "
+msgstr ""
+
+#: C:\xampp\htdocs\hollandex\wp-content\themes\hollandex/content.php:59
+#, php-format
+msgid "<i class=\"fa fa-tag\"></i> %1$s"
+msgstr ""
+
+#: C:\xampp\htdocs\hollandex\wp-content\themes\hollandex/content.php:65
+msgid "Leave a comment"
+msgstr ""
+
+#: C:\xampp\htdocs\hollandex\wp-content\themes\hollandex/content.php:65
+msgid "1 Comment"
+msgstr ""
+
+#: C:\xampp\htdocs\hollandex\wp-content\themes\hollandex/content.php:65
+msgid "% Comments"
+msgstr ""
+
+#: C:\xampp\htdocs\hollandex\wp-content\themes\hollandex/content.php:68
+msgid "<br />Edit"
+msgstr ""
+
+#: C:\xampp\htdocs\hollandex\wp-content\themes\hollandex/footer.php:27
+#, php-format
+msgid "Theme: %1$s by %2$s."
+msgstr ""
+
+#: C:\xampp\htdocs\hollandex\wp-content\themes\hollandex/functions.php:48
+msgid "Primary Menu"
+msgstr ""
+
+#: C:\xampp\htdocs\hollandex\wp-content\themes\hollandex/functions.php:97
+msgid "Left Panel Sidebar"
+msgstr ""
+
+#: C:\xampp\htdocs\hollandex\wp-content\themes\hollandex/functions.php:99
+msgid "The main sidebar that is below the main navigation area"
+msgstr ""
+
+#: C:\xampp\htdocs\hollandex\wp-content\themes\hollandex/functions.php:109
+msgid "Footer Sidebar 1"
+msgstr ""
+
+#: C:\xampp\htdocs\hollandex\wp-content\themes\hollandex/functions.php:111
+msgid "The 1st sidebar for the footer section"
+msgstr ""
+
+#: C:\xampp\htdocs\hollandex\wp-content\themes\hollandex/functions.php:119
+msgid "Footer Sidebar 2"
+msgstr ""
+
+#: C:\xampp\htdocs\hollandex\wp-content\themes\hollandex/functions.php:121
+msgid "The 2nd sidebar for the footer section"
+msgstr ""
+
+#: C:\xampp\htdocs\hollandex\wp-content\themes\hollandex/functions.php:129
+msgid "Footer Sidebar 3"
+msgstr ""
+
+#: C:\xampp\htdocs\hollandex\wp-content\themes\hollandex/functions.php:131
+msgid "The 3rd sidebar for the footer section"
+msgstr ""
+
+#: C:\xampp\htdocs\hollandex\wp-content\themes\hollandex/functions.php:174
+msgid "Read More"
+msgstr ""
+
+#: C:\xampp\htdocs\hollandex\wp-content\themes\hollandex/header.php:28
+msgid "Skip to content"
+msgstr ""
+
+#: C:\xampp\htdocs\hollandex\wp-content\themes\hollandex/inc/extras.php:63
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: C:\xampp\htdocs\hollandex\wp-content\themes\hollandex/inc/hollandex_theme_options.php:8
+msgid "Theme Options For : Hollandex"
+msgstr ""
+
+#: C:\xampp\htdocs\hollandex\wp-content\themes\hollandex/inc/hollandex_theme_options.php:8
+msgid "Theme Options"
+msgstr ""
+
+#: C:\xampp\htdocs\hollandex\wp-content\themes\hollandex/inc/hollandex_theme_options.php:21
+msgid "Customise Your Theme Options"
+msgstr ""
+
+#: C:\xampp\htdocs\hollandex\wp-content\themes\hollandex/inc/hollandex_theme_options.php:30
+msgid "Color Options"
+msgstr ""
+
+#: C:\xampp\htdocs\hollandex\wp-content\themes\hollandex/inc/hollandex_theme_options.php:31
+msgid "General Options"
+msgstr ""
+
+#: C:\xampp\htdocs\hollandex\wp-content\themes\hollandex/inc/hollandex_theme_options.php:32
+msgid "Copyright Text"
+msgstr ""
+
+#: C:\xampp\htdocs\hollandex\wp-content\themes\hollandex/inc/hollandex_theme_options.php:121
+msgid "Customize Theme Colors"
+msgstr ""
+
+#: C:\xampp\htdocs\hollandex\wp-content\themes\hollandex/inc/hollandex_theme_options.php:122
+msgid "Color One"
+msgstr ""
+
+#: C:\xampp\htdocs\hollandex\wp-content\themes\hollandex/inc/hollandex_theme_options.php:123
+msgid "Color Two"
+msgstr ""
+
+#: C:\xampp\htdocs\hollandex\wp-content\themes\hollandex/inc/hollandex_theme_options.php:124
+msgid "Color Three"
+msgstr ""
+
+#: C:\xampp\htdocs\hollandex\wp-content\themes\hollandex/inc/hollandex_theme_options.php:125
+msgid "Color Four"
+msgstr ""
+
+#: C:\xampp\htdocs\hollandex\wp-content\themes\hollandex/inc/hollandex_theme_options.php:126
+msgid "Color Five"
+msgstr ""
+
+#: C:\xampp\htdocs\hollandex\wp-content\themes\hollandex/inc/hollandex_theme_options.php:127
+msgid "Color Six"
+msgstr ""
+
+#: C:\xampp\htdocs\hollandex\wp-content\themes\hollandex/inc/hollandex_theme_options.php:128
+msgid "Color Seven"
+msgstr ""
+
+#: C:\xampp\htdocs\hollandex\wp-content\themes\hollandex/inc/hollandex_theme_options.php:129
+msgid "Color Eight"
+msgstr ""
+
+#: C:\xampp\htdocs\hollandex\wp-content\themes\hollandex/inc/hollandex_theme_options.php:130
+msgid "Color Nine"
+msgstr ""
+
+#: C:\xampp\htdocs\hollandex\wp-content\themes\hollandex/inc/hollandex_theme_options.php:134
+msgid "Custom General Options"
+msgstr ""
+
+#: C:\xampp\htdocs\hollandex\wp-content\themes\hollandex/inc/hollandex_theme_options.php:135
+msgid "Path to your custom favicon (Include http://)"
+msgstr ""
+
+#: C:\xampp\htdocs\hollandex\wp-content\themes\hollandex/inc/hollandex_theme_options.php:136
+msgid "The font to use on navigational menus"
+msgstr ""
+
+#: C:\xampp\htdocs\hollandex\wp-content\themes\hollandex/inc/hollandex_theme_options.php:137
+msgid "The font to use for your content"
+msgstr ""
+
+#: C:\xampp\htdocs\hollandex\wp-content\themes\hollandex/inc/hollandex_theme_options.php:141
+msgid "Options for your footer area"
+msgstr ""
+
+#: C:\xampp\htdocs\hollandex\wp-content\themes\hollandex/inc/hollandex_theme_options.php:142
+msgid "Footer text for the copyright area"
+msgstr ""
+
+#: C:\xampp\htdocs\hollandex\wp-content\themes\hollandex/inc/hollandex_theme_options.php:1026
+msgid ""
+"Hollandex Theme By <a href='http://www.kozmikinc.com'>Kozmik</a>. Proudly "
+"powered by <a href='http://www.wordpress.org'>WordPress</a>"
+msgstr ""
+
+#: C:\xampp\htdocs\hollandex\wp-content\themes\hollandex/inc/template-tags.php:21
+msgid "Posts navigation"
+msgstr ""
+
+#: C:\xampp\htdocs\hollandex\wp-content\themes\hollandex/inc/template-tags.php:25
+msgid "<span class=\"glyphicon glyphicon-backward\"></span>"
+msgstr ""
+
+#: C:\xampp\htdocs\hollandex\wp-content\themes\hollandex/inc/template-tags.php:29
+msgid "<span class=\"glyphicon glyphicon-forward\"></span>"
+msgstr ""
+
+#: C:\xampp\htdocs\hollandex\wp-content\themes\hollandex/inc/template-tags.php:53
+msgid "Post navigation"
+msgstr ""
+
+#: C:\xampp\htdocs\hollandex\wp-content\themes\hollandex/search.php:19
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: C:\xampp\htdocs\hollandex\wp-content\themes\hollandex/searchform.php:17
+msgid "Search"
+msgstr ""
